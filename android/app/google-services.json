@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485499881278",
+    "project_id": "e-cashier-1efb5",
+    "storage_bucket": "e-cashier-1efb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485499881278:android:8930f56041141da8b04e6f",
+        "android_client_info": {
+          "package_name": "com.example.e_cashier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBazWuqlLYAZqyNX8tD3hclQRdeJfOOR-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
